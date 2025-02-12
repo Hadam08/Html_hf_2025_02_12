@@ -1,0 +1,21 @@
+text_style{
+    
+    color: #002200;
+    
+}
+
+body{
+    background-color: #DDFFDD;
+}
+#center{
+    text-align: center;
+    margin-left: auto;
+    margin-right: 16%;
+    color: #002200;
+    font-size: 15px;
+
+}
+#img_list{
+    width: 50%;
+    height: 80%;
+}
